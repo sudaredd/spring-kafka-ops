@@ -1,5 +1,5 @@
 ### uage
-1) Create topic with multiple partitions (3)
+1) Create topic (demo-topic) with multiple partitions (3)
 2) Run multiple instances with different server.port
 3) Send PAUSE on one of instance (http://localhost:8080/action?state=PAUSE)
 4) Write messages to topic for each paritions
