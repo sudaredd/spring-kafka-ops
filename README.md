@@ -1,4 +1,4 @@
-### uage
+### Usage
 1) Create a topic (demo-topic) with multiple partitions (3)
 2) Run multiple instances with different server.port
 3) Send PAUSE on one of instance (http://localhost:8080/action?state=PAUSE)
